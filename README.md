@@ -24,6 +24,7 @@ Installation steps will go here, once those have been determined.
   * Add Usage section
 * Define MVP for inital release
 * Decide language to use for generating yaml for dockerfiles/composefile
+* Determine what needs to go into the dockerfiles/composefile
 * Add adr for licensing choice
 * Decide and define initial supported naming scheme for nodes
 * Decide name for test nodes
@@ -34,6 +35,9 @@ Installation steps will go here, once those have been determined.
   * Hocon?
   * YAML?
   * raw key value pairs?
+* Determine what options can be configured via the config files
+* Determine where config files should live and in what order they should be parsed
+
 
 ## Context
 
